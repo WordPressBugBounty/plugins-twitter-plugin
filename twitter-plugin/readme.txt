@@ -1,7 +1,7 @@
 ﻿=== BestWebSoft's Twitter ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
-Tags: add social buttons, twitter buttons, add twitter buttons, share button, follow button, tweets, twitter share button, twitter follow button, twitter feeds, like button, twitter like button, social bookmark
+Tags: add social buttons, twitter buttons, add twitter buttons, share button, follow button
 Requires at least: 5.6
 Tested up to: 6.8
 Stable tag: 2.66
